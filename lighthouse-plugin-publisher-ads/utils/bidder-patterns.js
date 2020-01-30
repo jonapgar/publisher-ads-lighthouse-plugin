@@ -149,6 +149,12 @@ module.exports = [
     ],
   },
   {
+    label: 'Datablocks',
+    patterns: [
+      '^https?://[a-z-_.]*[.]dblks[.]net/.*',
+    ],
+  },
+  {
     label: 'Districtm',
     patterns: [
       '^https?://prebid[.]districtm[.]ca/lib[.]js.*',
